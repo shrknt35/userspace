@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'userspace-ui';
+
+  do() {
+    alert("hi madhu");
+  }
 }
